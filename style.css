@@ -90,7 +90,7 @@ right connector from last child*/
 	text-decoration: none;
 	color: #666;
 	font-family: arial, verdana, tahoma;
-	font-size: 1em;
+	font-size: 0.8em;
     letter-spacing: 1px;
     display: inline-block;
 	
@@ -122,7 +122,6 @@ Thanks :)*/
 .tree span {
     padding: 3px 8px 3px 8px;
     border-radius: 0px 15px 15px 0px;
-    font-size: 1rem;
 }
 
 .brand-tag {
